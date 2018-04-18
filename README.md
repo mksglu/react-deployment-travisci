@@ -15,5 +15,8 @@ Size diğer Continious Integration araçlarını sıralamak istiyorum. Bu anahta
 * CircleCI
 * TravisCI
 
+Bu anlatımı güçlendirmek için kısa ve amatör bir de video kaydettim. YouTube üzerinden izleyebilirsiniz.
+https://www.youtube.com/watch?v=0nv5uRlmsA4
+
 Teşekkürler.
 Mert.
